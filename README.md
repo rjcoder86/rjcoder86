@@ -1,10 +1,11 @@
 
-<h1 align="center">👋 Hello Coders, Rohit here </h1>
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height=29 align=center>
+ Hello Coders, Rohit here </h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
 - 🔭 I’m currently working on **Python APIs**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**, **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rjcoder86/](https://github.com/rjcoder86/)
 
